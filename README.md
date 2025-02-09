@@ -4,3 +4,4 @@
 I have the program that analyzes the sentiment on the text of the story
 Next step: export this information to a csv and then using the Identificador de la publicación, add it to the archivo_combinado.csv file.
 **Update Feb 8:** Sentiment analysis for captions done. Next step: clean the dataset with analytics + sentiment. I will remove statistics for videos and then combine with the image Dataset.
+I created the final dataset. Next Step: Add manually the "Category"
