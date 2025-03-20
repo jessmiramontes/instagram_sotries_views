@@ -8,9 +8,10 @@ I created the final dataset. Next Step: Add manually the "Category".
 **Update March 19:** I have the final dataset to start the EDA and the training. 
 
 Files:
-1) Instagram_stories_image_dataset.ipynb (Image Analysis and DatasetCreation)
-2) approve_data.ipynb
-3) combinefiles.ipynb (Program to combine serveral csv files from Meta)
-4) sentiment_analysis_caption (Analyse the sentiment on the captions)
-5) cleanandcombine.ipynb (Clean the Dataset from meta and combine it with the sentiment and also Image Dataset)
-6) ig_stories_training.ipynb
+1) Instagram_stories_image_dataset..ipynb (Image Analysis and DatasetCreation)
+2) app.py (Streamoit app to validate the Image data, edit it if needed and add categories)
+3) approve_data.ipynb (to run app.py since images are on a google drive and it is easier to access using Google Colab)
+4) combinefiles.ipynb (Program to combine serveral csv files from Meta)
+5) sentiment_analysis_caption (Analyse the sentiment on the captions)
+6) cleanandcombine.ipynb (Clean the Dataset from meta and combine it with the sentiment and also Image Dataset)
+7) ig_stories_training.ipynb
