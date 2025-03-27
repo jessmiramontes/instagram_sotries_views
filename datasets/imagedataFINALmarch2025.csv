@@ -1,0 +1,395 @@
+nombre_archivo,fecha,objeto_principal,color_dominante,emocion_primaria,categoría
+IMG_20250120_150630_215.jpg,2025-01-20,person,#595e67,happy,Selfie
+IMG_20250117_112006_771.jpg,2025-01-17,person,#5c616b,happy,"Selfie, Comida y Bebida"
+IMG_20250113_093221_483.jpg,2025-01-13,coffee_mug,#838593,happy,"Selfie, Comida y Bebida"
+IMG_20250105_124127_869.jpg,2025-01-05,coffee_mug,#858387,happy,"Selfie, Comida y Bebida"
+IMG_20250103_151034_782.jpg,2025-01-03,hall,#535a77,neutral,Selfie
+IMG_20241225_185115_547.jpg,2024-12-25,stole,#7b7376,happy,"Selfie, Con otras personas"
+IMG_20241224_135057_364.jpg,2024-12-24,lights,#707683,neutral,Selfie
+IMG_20241222_155459_612.jpg,2024-12-22,kitchen,#666974,neutral,Cuerpo Completo
+IMG_20241220_202547_970.jpg,2024-12-20,scene,#8d8486,happy,Cuerpo Completo
+IMG_20241219_163537_270.jpg,2024-12-19,seat_belt,#716b6f,happy,Selfie
+IMG_20241218_121747_857.jpg,2024-12-18,person,#736f7a,happy,"Selfie, Sticker"
+IMG_20241218_120938_679.jpg,2024-12-18,certificate,#71737a,happy,Selfie
+IMG_20241217_105637_371.jpg,2024-12-17,classroom,#8b8493,happy,Selfie
+IMG_20241215_215004_342.jpg,2024-12-15,park,#999ba0,happy,Con otras personas
+IMG_20241214_213236_980.jpg,2024-12-14,guillotine,#585f71,happy,"Comida y Bebida, Cuerpo Completo"
+IMG_20241213_174908_771.jpg,2024-12-13,sign,#7c778b,happy,Selfie
+IMG_20241212_152508_373.jpg,2024-12-12,logo,#c591c9,happy,Con otras personas
+IMG_20241211_135550_333.jpg,2024-12-11,logo,#894f9e,happy,"Con otras personas, Cuerpo Completo"
+IMG_20241210_131348_346.jpg,2024-12-10,person,#807977,happy,Selfie
+IMG_20241209_094758_667.jpg,2024-12-09,group_of_people,#7a728c,happy,Con otras personas
+IMG_20241207_195008_629.jpg,2024-12-07,dog,#898197,neutral,Otro
+IMG_20241206_184833_967.jpg,2024-12-06,people,#657498,happy,Con otras personas
+IMG_20241205_165049_657.jpg,2024-12-05,people,#8083a7,sad,Con otras personas
+IMG_20241204_162420_929.jpg,2024-12-04,people,#7b6089,happy,Con otras personas
+IMG_20241202_142153_605.jpg,2024-12-02,dream_catcher,#7f87b1,happy,Selfie
+IMG_20241201_141206_037.jpg,2024-12-01,desk,#7d7a8b,happy,Selfie
+IMG_20241125_134326_129.jpg,2024-11-25,street,#777584,happy,Selfie
+IMG_20241122_111341_745.jpg,2024-11-22,coffee_mug,#747379,happy,"Selfie, Comida y Bebida"
+IMG_20241118_112608_735.jpg,2024-11-18,person,#7b7279,surprise,Selfie
+IMG_20241111_125752_550.jpg,2024-11-11,flowers,#606873,happy,Selfie
+IMG_20241107_115118_435.jpg,2024-11-07,person,#797a87,happy,"Selfie, Sticker"
+IMG_20241107_114701_125.jpg,2024-11-07,box,#7c7c8c,happy,"Selfie, Comida y Bebida"
+IMG_20241106_075815_912.jpg,2024-11-06,coffee,#616979,happy,"Selfie, Comida y Bebida"
+IMG_20241104_182808_806.jpg,2024-11-04,person,#797a8e,happy,Selfie
+IMG_20241102_134516_414.jpg,2024-11-02,flowers,#546579,happy,Selfie
+IMG_20241026_164513_758.jpg,2024-10-26,witch,#757a81,happy,"Selfie, Cuerpo Completo"
+IMG_20241024_175810_262.jpg,2024-10-24,journal,#d0dada,happy,Reposteo
+IMG_20241024_175722_158.jpg,2024-10-24,journal,#767370,happy,Reposteo
+IMG_20241023_101418_014.jpg,2024-10-23,coffee_mug,#787782,happy,"Selfie, Comida y Bebida"
+IMG_20241018_084721_523.jpg,2024-10-18,coffe_mug,#666972,happy,"Selfie, Comida y Bebida"
+IMG_20241016_152147_493.jpg,2024-10-16,can,#5e6473,happy,"Selfie, Comida y Bebida"
+IMG_20241014_115546_008.jpg,2024-10-14,person,#656a7e,happy,Selfie
+IMG_20241012_174226_572.jpg,2024-10-12,restaurant,#5d626e,happy,"Selfie, Comida y Bebida"
+IMG_20241011_142430_167.jpg,2024-10-11,coffee_mug,#6b657f,happy,"Selfie, Comida y Bebida"
+IMG_20241007_103555_562.jpg,2024-10-07,person,#7f7886,happy,Selfie
+IMG_20241005_092140_366.jpg,2024-10-05,journal,#705f75,neutral,Selfie
+IMG_20241003_181131_967.jpg,2024-10-03,people,#585862,happy,"Selfie, Con otras personas"
+IMG_20241002_173511_936.jpg,2024-10-02,board,#696c7f,happy,Selfie
+IMG_20240930_102024_628.jpg,2024-09-30,coffee_mug,#6a6c80,happy,"Selfie, Comida y Bebida"
+IMG_20240925_110812_513.jpg,2024-09-25,coffee_mug,#8283a0,happy,"Selfie, Comida y Bebida, Con otras personas"
+IMG_20240920_113051_444.jpg,2024-09-20,coffee_mug,#5e6171,happy,"Selfie, Comida y Bebida"
+IMG_20240915_194319_855.jpg,2024-09-15,church,#848694,happy,"Selfie, Con otras personas"
+IMG_20240913_104424_190.jpg,2024-09-13,promo,#501b44,happy,"Selfie, Ofrecimiento"
+IMG_20240910_141722_782.jpg,2024-09-10,coffee_mug,#746c75,happy,"Selfie, Sticker"
+IMG_20240906_101635_152.jpg,2024-09-06,sunglasses,#989b9d,neutral,Selfie
+IMG_20240904_104815_375.jpg,2024-09-04,coffee_mug,#727b85,neutral,Comida y Bebida
+IMG_20240503_165952_178.jpg,2024-05-03,mural,#716471,happy,Selfie
+IMG_20240503_165711_342.jpg,2024-05-03,seat_belt,#776c80,neutral,Selfie
+IMG_20240503_165526_511.jpg,2024-05-03,logo,#5b0fa8,happy,Cuerpo Completo
+IMG_20240503_165314_327.jpg,2024-05-03,maillot,#746184,happy,Selfie
+IMG_20240502_180219_340 (1).jpg,2024-05-02,background_color,#cf54a6,happy,Sticker
+IMG_20231222_182937_798.jpg,2023-12-22,coffee_mug,#4e4f66,happy,Comida y Bebida
+IMG_20231106_195856_513.webp,2023-11-06,necklace,#42454e,happy,Selfie
+IMG_20231103_173639_881.webp,2023-11-03,ice_cream,#656b7c,happy,"Selfie, Comida y Bebida"
+IMG_20231102_210840_705.webp,2023-11-02,altar,#686977,fear,Otro
+IMG_20230417_194119_473.jpg,2023-04-17,hand,#c3718a,neutral,Reposteo
+IMG_20230413_182723_462.jpg,2023-04-13,food,#747888,happy,"Selfie, Comida y Bebida, Sticker"
+IMG_20230407_102256_670.jpg,2023-04-07,web_site,#b77e64,happy,Reposteo
+IMG_20230406_180835_997.jpg,2023-04-06,person,#cbab9e,happy,"Selfie, Sticker"
+IMG_20230405_144238_793.jpg,2023-04-05,sunglasses,#828696,happy,"Selfie, Sticker, Comida y Bebida"
+IMG_20230403_171043_251.jpg,2023-04-03,lemonade,#7a8697,happy,"Selfie, Sticker, Comida y Bebida"
+IMG_20230401_174937_805.jpg,2023-04-01,person,#8b8f98,happy,"Selfie, Sticker"
+IMG_20230401_115828_786.jpg,2023-04-01,patio,#7e878c,happy,"Sticker, Otro"
+IMG_20230401_115753_686.jpg,2023-04-01,altar,#76717b,neutral,Otro
+IMG_20230331_155411_825.jpg,2023-03-31,beer_glass,#60696d,happy,"Selfie, Comida y Bebida"
+IMG_20230331_143018_428.jpg,2023-03-31,background_color,#ccafb7,happy,Sticker
+IMG_20230331_142915_212.jpg,2023-03-31,altar,#657385,neutral,Otro
+IMG_20230331_142836_189.jpg,2023-03-31,altar,#6d798a,neutral,Otro
+IMG_20230327_092942_876.jpg,2023-03-27,angel,#787a7f,happy,"Selfie, Sticker"
+IMG_20230326_113944_601.jpg,2023-03-26,people,#626065,happy,"Con otras personas, Reposteo"
+IMG_20230324_083604_745.jpg,2023-03-24,people,#b59d85,happy,"Con otras personas, Reposteo"
+IMG_20230319_150117_392.jpg,2023-03-19,ice_cream,#9c9396,happy,"Selfie, Comida y Bebida"
+IMG_20230313_102215_888.jpg,2023-03-13,message,#a89b75,happy,"Otro, Sticker"
+IMG_20230308_164700_665.jpg,2023-03-08,background_color,#a98ba9,neutral,"Con otras personas, Reposteo"
+IMG_20230307_201630_426.jpg,2023-03-07,background_color,#7e5386,neutral,Sticker
+IMG_20230307_201332_870.jpg,2023-03-07,background_color,#63408d,neutral,Reposteo
+IMG_20230307_201313_495.jpg,2023-03-07,background_color,#60307b,neutral,Reposteo
+IMG_20230307_201258_444.jpg,2023-03-07,background_color,#603584,neutral,Reposteo
+IMG_20230307_201210_797.jpg,2023-03-07,background_color,#623684,neutral,Reposteo
+IMG_20230307_201157_014.jpg,2023-03-07,background_color,#633a87,fear,Reposteo
+IMG_20230307_201137_890.jpg,2023-03-07,background_color,#643f8d,happy,Reposteo
+IMG_20230306_114921_701.jpg,2023-03-06,oracle,#9ca993,happy,"Otro, Sticker"
+IMG_20230214_212509_153.jpg,2023-02-14,background_color,#896fb2,neutral,"Enlace, Reposteo"
+IMG_20230214_212315_147.jpg,2023-02-14,background_color,#612a78,sad,Reposteo
+IMG_20230214_212251_695.jpg,2023-02-14,background_color,#612670,sad,Reposteo
+IMG_20230214_212233_315.jpg,2023-02-14,background_color,#643682,sad,Reposteo
+IMG_20230214_212218_155.jpg,2023-02-14,heart,#6e61ad,happy,Reposteo
+IMG_20230214_204359_214.jpg,2023-02-14,straw,#929bad,happy,"Selfie, Comida y Bebida, Sticker"
+IMG_20230210_131835_344.jpg,2023-02-10,background_color,#779aac,happy,"Reposteo, Sticker"
+IMG_20230210_131753_231.jpg,2023-02-10,background_color,#c7c0d3,sad,Reposteo
+IMG_20230208_194355_266.jpg,2023-02-08,background_color,#63688b,happy,"Reposteo, Con otras personas"
+IMG_20230208_193458_035.jpg,2023-02-08,eggnog,#757491,sad,"Selfie, Comida y Bebida"
+IMG_20230204_115956_923.jpg,2023-02-04,book,#909696,happy,"Otro, Enlace"
+IMG_20230129_194514_136.jpg,2023-01-29,quote,#57514a,happy,Reposteo
+IMG_20230125_162752_863.jpg,2023-01-25,quote,#404351,happy,Reposteo
+IMG_20230125_162719_529.jpg,2023-01-25,quote,#dac3ce,sad,Reposteo
+IMG_20230125_162138_882.jpg,2023-01-25,people,#718387,happy,"Reposteo, Con otras personas"
+IMG_20230125_162125_666.jpg,2023-01-25,people,#4d5971,happy,"Reposteo, Con otras personas"
+IMG_20230122_193730_320.jpg,2023-01-22,person,#6a6686,happy,Selfie
+IMG_20230120_122337_300.jpg,2023-01-20,people,#5d575f,happy,"Reposteo, Con otras personas"
+IMG_20230118_103100_626.jpg,2023-01-18,teapot,#98a2a8,neutral,"Otro, Sticker"
+IMG_20230116_192025_454.jpg,2023-01-16,person,#57515f,happy,Selfie
+IMG_20230112_154949_486.jpg,2023-01-12,people,#6c79bd,happy,Reposteo
+IMG_20230111_090246_054.jpg,2023-01-11,espresso,#b4bbce,sad,Comida y Bebida
+IMG_20230108_150427_607.jpg,2023-01-08,ski_mask,#4b3e41,neutral,Selfie
+IMG_20230108_105914_439.jpg,2023-01-08,potpie,#909ca7,happy,"Comida y Bebida, Sticker"
+IMG_20230107_114144_017.jpg,2023-01-07,potpie,#95a2ad,happy,"Comida y Bebida, Sticker"
+IMG_20230106_211449_997.jpg,2023-01-06,tray,#4d4a76,happy,"Comida y Bebida, Selfie"
+IMG_20230106_211416_808.jpg,2023-01-06,cleaver,#516da4,sad,Comida y Bebida
+IMG_20230106_211406_092.jpg,2023-01-06,newspaper,#6d6e76,sad,Selfie
+IMG_20230106_211355_310.jpg,2023-01-06,skull,#98a7aa,happy,Otro
+IMG_20230106_211343_940.jpg,2023-01-06,magnetic_compass,#464855,neutral,Otro
+IMG_20230106_211333_090.jpg,2023-01-06,restaurant,#666b7c,happy,Selfie
+IMG_20230106_211322_851.jpg,2023-01-06,restaurant,#5c6374,happy,Selfie
+IMG_20230106_211205_437.jpg,2023-01-06,street_sign,#55787a,neutral,Otro
+IMG_20230106_211153_582.jpg,2023-01-06,street_signs,#52646a,happy,Otro
+IMG_20230106_143840_679.jpg,2023-01-06,packet,#5c5d6b,happy,"Otro, Sticker"
+IMG_20230103_203624_503.jpg,2023-01-03,plate,#5c697b,neutral,Selfie
+IMG_20230101_203517_057.jpg,2023-01-01,cookies,#425c81,happy,Comida y Bebida
+IMG_20230101_181738_189.jpg,2023-01-01,pizza,#5c5f61,happy,Comida y Bebida
+IMG_20230101_173236_089.jpg,2023-01-01,red_wine,#747382,neutral,Comida y Bebida
+IMG_20230429_004509_286.JPG,2023-04-29,web_site,#f7f8f8,neutral,Reposteo
+img_20230501_122655_980.JPG,2023-05-01,people,#a7a7b2,happy,"Reposteo, Con otras personas"
+img_20230503_061407_982.JPG,2023-05-03,patio,#666a72,happy,Comida y Bebida
+img_20230503_091511_037.JPG,2023-05-03,laptop,#5e6667,neutral,"Otro, Sticker"
+img_20230504_155609_956.JPG,2023-05-04,people,#7e7b82,neutral,Con otras personas
+IMG_20230505_094107_425.JPG,2023-05-05,statue,#737c8c,surprise,Selfie
+img_20230507_094152_08.JPG,2023-05-07,quote,#52565f,happy,Reposteo
+IMG_20230509_072408_769.JPG,2023-05-09,laptop,#616164,neutral,"Otro, Sticker"
+img_20230509_132611_559.JPG,2023-05-09,web_site,#579995,happy,Reposteo
+img_20230509_202035_751.JPG,2023-05-09,people,#708b9c,neutral,"Reposteo, Con otras personas"
+img_20230510_105830_075.JPG,2023-05-10,candy,#8a8496,happy,"Selfie, Comida y Bebida"
+img_20230515_122925_105.JPG,2023-05-15,sign,#767a92,neutral,"Otro, Sticker"
+img_20230522_154957_674.JPG,2023-05-22,quote,#ae8a9a,happy,"Sticker, Cuerpo Completo"
+img_20230522_15123_340.JPG,2023-05-22,background_color,#a96d86,sad,Sticker
+img_20230522_155215_156.JPG,2023-05-22,quote,#f08f71,surprise,Otro
+img_20230522_155216_818.JPG,2023-05-22,quote,#e9b3a5,sad,Otro
+img_20230522_155219_090.JPG,2023-05-22,quote,#bcb4cc,neutral,Otro
+img_20230522_155225_104.JPG,2023-05-22,quote,#e8b9af,neutral,Otro
+img_20230524_070847_481.JPG,2023-05-24,web_site,#cdcdcd,angry,"Reposteo, Sticker"
+img_20230525_104901_188.JPG,2023-05-25,oracle_deck,#b59f9b,happy,"Sticker, Selfie"
+img_20230525_154700_505.JPG,2023-05-25,person,#79636b,happy,"Sticker, Selfie"
+img_20230529_074542_247.JPG,2023-05-29,person,#887b83,happy,"Sticker, Selfie"
+img_20230603_141547_588.JPG,2023-06-03,toys,#a19da5,neutral,"Sticker, Otro"
+img_20230612_185252_158.JPG,2023-06-12,quote,#984770,happy,Otro
+img_20230612_210230_415.JPG,2023-06-12,web_site,#814b74,happy,"Selfie, Ofrecimiento, Sticker"
+img_20230613_092135_179.JPG,2023-06-13,web_site,#8c958e,happy,"Sticker, Reposteo"
+img_20230614_120811_894.JPG,2023-06-14,person,#858084,happy,"Sticker, Selfie"
+img_20230616_115900_899.JPG,2023-06-16,book,#989ba9,neutral,"Sticker, Otro"
+img_20230622_104432_732.JPG,2023-06-22,book,#70727d,sad,"Sticker, Otro"
+img_20230710_093034_055.JPG,2023-07-10,background_color,#aca5ae,neutral,"Sticker, Otro"
+img_20230714_174025_731.JPG,2023-07-14,background_color,#9b5b75,happy,"Sticker, Otro"
+IMG_20230717_200826_252.JPG,2023-07-17,web_site,#f1eef1,neutral,Reposteo
+IMG_20230719_095046_340.JPG,2023-07-19,web_site,#d0d0da,neutral,Reposteo
+IMG_20230720_173636_071.JPG,2023-07-20,web_site,#812b57,happy,Ofrecimiento
+IMG_20230720_173637_701.JPG,2023-07-20,web_site,#aa5d7e,neutral,Ofrecimiento
+IMG_20230720_173638_825.JPG,2023-07-20,web_site,#a04c6f,neutral,Ofrecimiento
+IMG_20230720_173649_077.JPG,2023-07-20,web_site,#a25071,neutral,"Ofrecimiento, Enlace"
+IMG_20230721_193331_027.JPG,2023-07-21,airplane,#5f606e,happy,"Selfie, Sticker"
+IMG_20230721_194103_803.JPG,2023-07-21,coffee,#787a87,sad,"Selfie, Comida y Bebida"
+IMG_20230722_082353_222.JPG,2023-07-22,book,#6e6976,sad,Otro
+IMG_20230722_091940_212.JPG,2023-07-22,library,#706576,happy,"Selfie, Sticker"
+IMG_20230727_204800_793.JPG,2023-07-27,web_site,#cecdcf,surprise,"Sticker, Reposteo"
+IMG_20230803_143127_552.JPG,2023-08-03,web_site,#753966,happy,"Sticker, Ofrecimiento, Selfie"
+IMG_20230808_194851_186.JPG,2023-08-08,promo,#6d2f5e,happy,"Selfie, Ofrecimiento, Enlace"
+IMG_20230810_101951_474.JPG,2023-08-10,people,#6492c6,happy,"Reposteo, Con otras personas, Ofrecimiento"
+IMG_20230810_160457_093.JPG,2023-08-10,person,#5d5e6f,surprise,Selfie
+IMG_20230812_214312_621.JPG,2023-08-12,street_sign,#594a6f,neutral,Otro
+img_20230814_123530_258.JPG,2023-08-14,web_site,#b7b8b9,neutral,"Otro, Sticker"
+img_20230831_150332_484.JPG,2023-08-31,web_site,#bdb7bc,neutral,"Otro, Sticker"
+img_20230901_192630_079.JPG,2023-09-01,web_site,#a58a58,sad,"Ofrecimiento, Enlace"
+img_20230902_115445_382.JPG,2023-09-02,enchiladas,#728796,neutral,Comida y Bebida
+img_20230903_104131_270.JPG,2023-09-03,web_site,#838d95,happy,"Otro, Sticker"
+img_20230903_104230_105.JPG,2023-09-03,person,#8a9bad,sad,"Reposteo, Selfie"
+img_20230903_104241_435.JPG,2023-09-03,ice_cream,#998883,neutral,"Selfie, Reposteo, Comida y Bebida"
+img_20230903_104252_723.JPG,2023-09-03,manequin,#7d7691,happy,"Selfie, Sticker"
+img_20230903_104309_535.JPG,2023-09-03,background_color,#9e4e72,happy,Sticker
+img_20230907_184339_257.JPG,2023-09-07,theater,#696456,neutral,"Sticker, Otro"
+img_20230910_124252_716.JPG,2023-09-10,person,#9495a7,happy,"Sticker, Selfie"
+img_20230910_174741_622.JPG,2023-09-10,character,#949ca0,neutral,Otro
+img_20230910_210112_254.JPG,2023-09-10,event,#898a96,neutral,"Con otras personas, Sticker, Cuerpo Completo"
+img_20230912_145923_671.JPG,2023-09-12,web_site,#a78a53,happy,"Enlace, Ofrecimiento"
+img_20230913_091736_225.JPG,2023-09-13,web_site,#628479,happy,Reposteo
+img_20230918_132526_627.JPG,2023-09-18,web_site,#f0ecf0,neutral,Reposteo
+img_20230919_211326_765.JPG,2023-09-19,tv,#585d5e,happy,"Otro, Sticker"
+img_20230919_224225_448.JPG,2023-09-19,tv,#8a756b,sad,Otro
+img_20230922_112624_757.JPG,2023-09-22,sunglasses,#8993a8,happy,"Selfie, Comida y Bebida"
+img_20230926_155613_230.JPG,2023-09-26,web_site,#cdcfd6,neutral,"Reposteo, Sticker"
+img_20230929_105901_289.JPG,2023-09-29,quote,#a5c9d9,happy,Reposteo
+img_20231001_110448_650.JPG,2023-10-01,sunglasses,#9aa2b6,happy,"Selfie, Comida y Bebida, Sticker"
+img_20231002_111757_68}2.JPG,2023-10-02,background_color,#6a1d51,angry,"Sticker, Otro"
+img_20231002_112036_587.JPG,2023-10-02,background_color,#732957,neutral,Sticker
+img_20231002_195655_366.JPG,2023-10-02,quote,#415352,happy,Reposteo
+img_20231004_145727_231.JPG,2023-10-04,menu,#8999a2,neutral,Comida y Bebida
+img_20231005_144335_085.JPG,2023-10-05,web_site,#867a8b,happy,"Reposteo, Con otras personas"
+img_20231014_183052_868.JPG,2023-10-14,cookie,#5e5d74,neutral,"Selfie, Comida y Bebida"
+img_20231016_111931_352.JPG,2023-10-16,fruit,#5c6980,neutral,Comida y Bebida
+img_20231017_073117_525.JPG,2023-10-17,quote,#71a299,neutral,Reposteo
+img_20231019_101739_145.JPG,2023-10-19,coffee,#778691,happy,Comida y Bebida
+img_20231023_111222_164.JPG,2023-10-23,food,#54606c,neutral,Comida y Bebida
+img_20231025_185900_681.JPG,2023-10-25,toy,#545b73,sad,Otro
+img_20231021_211007_172.JPG,2023-10-21,web_site,#d2d2d2,neutral,
+img_20231029_16114_271.JPG,2023-10-29,people,#9c96b2,happy,"Reposteo, Con otras personas"
+img_20231030_134200_340.JPG,2023-10-30,coffee_mug,#9898a0,sad,"Selfie, Comida y Bebida"
+img_20231031_090116_142.JPG,2023-10-31,espresso,#90a2ba,neutral,Comida y Bebida
+img_20231031_104302_997.JPG,2023-10-31,carton,#8e9098,happy,Otro
+img_20231031_17342_753.JPG,2023-10-31,bagel,#5a7795,happy,Comida y Bebida
+img_20231031_180907_348.JPG,2023-10-31,cake,#6984b4,neutral,Comida y Bebida
+img_20231101_111546_032.JPG,2023-11-01,food,#878da7,neutral,Comida y Bebida
+img_20231101_162415_442.JPG,2023-11-01,quesadilla,#4a72a8,neutral,Comida y Bebida
+img_20231105_161114_813.JPG,2023-11-05,person,#3e424c,happy,Selfie
+img_20231105_180430_244.JPG,2023-11-05,people,#9d91a3,sad,"Reposteo, Con otras personas"
+img_20231108_111512_394.JPG,2023-11-08,dog,#83486f,sad,"Sticker, Otro"
+img_20231109_151903_858.JPG,2023-11-09,quote,#7d76b7,sad,Reposteo
+img_20231112_151040_848.JPG,2023-11-12,iron,#747374,surprise,"Otro, Sticker"
+img_20231112_171252_100.JPG,2023-11-12,web_site,#88898c,neutral,Otro
+img_20231112_180053_149.JPG,2023-11-12,stole,#a99da2,happy,Selfie
+img_20231113_124011_527.JPG,2023-11-13,landscape,#aea38e,neutral,Otro
+img_20231114_171018_259.JPG,2023-11-14,oracle_deck,#6b5a5b,happy,Otro
+img_20231120_114518_579.JPG,2023-11-20,wok,#95989e,neutral,"Comida y Bebida, Sticker"
+img_20231127_115721_790.JPG,2023-11-27,plate,#8a92a0,neutral,"Comida y Bebida, Sticker"
+img_20231129_092822_072.JPG,2023-11-29,oracle_deck,#857485,neutral,Otro
+img_20231201_080738_765.JPG,2023-12-01,promo,#8c6136,sad,"Ofrecimiento, Enlace"
+img_20231202_111442_911.JPG,2023-12-02,web_site,#c4c2c8,happy,"Reposteo, Cuerpo Completo"
+img_20231203_153112_005.JPG,2023-12-03,tray,#8393b2,neutral,"Comida y Bebida, Sticker"
+img_20231204_093227_861.JPG,2023-12-04,promo,#9e6a3b,fear,"Sticker, Enlace, Ofrecimiento, Cuerpo Completo"
+img_20231205_140027_922.JPG,2023-12-05,coffee,#818192,sad,Comida y Bebida
+img_20231208_094046_142.JPG,2023-12-08,web_site,#c9b0a9,fear,Comida y Bebida
+img_20231208_095334_773.JPG,2023-12-08,person,#ab8c93,neutral,"Cuerpo Completo, Sticker"
+img_20231210_152007_252.JPG,2023-12-10,person,#7f7489,happy,"Sticker, Comida y Bebida, Selfie"
+img_20231213_131506_349.JPG,2023-12-13,person,#733d5d,neutral,"Sticker, Cuerpo Completo"
+img_20231213_131509_899.JPG,2023-12-13,promo,#514940,happy,"Ofrecimiento, Enlace, Cuerpo Completo"
+img_20231214_185323_269.JPG,2023-12-14,person,#8c8399,happy,Selfie
+img_20231218_173716_965.JPG,2023-12-18,coffee_mug,#6c7089,happy,"Selfie, Comida y Bebida"
+img_20231220_175120_219.JPG,2023-12-20,dining_table,#5b6b8a,neutral,Comida y Bebida
+img_20231222_182817_998.JPG,2023-12-22,coffee_mug,#4c4d63,happy,Comida y Bebida
+img_20231223_110557_952.JPG,2023-12-23,screen,#534e38,happy,Reposteo
+img_20231223_110559_012.JPG,2023-12-23,television,#555b3c,sad,Reposteo
+img_20231225_111317_831.JPG,2023-12-25,oracle_deck,#9b7f95,happy,"Cuerpo Completo, Sticker"
+img_20231225_151219_549.JPG,2023-12-25,toys,#55779b,happy,Reposteo
+img_20231227_170637_259.JPG,2023-12-27,witch,#67626a,happy,Selfie
+img_20231228_092223_407.JPG,2023-12-28,person,#5e473a,sad,"Sticker, Cuerpo Completo"
+img_20231229_120935_441.JPG,2023-12-29,flowers,#aa7f9f,happy,"Otro, Sticker"
+img_20231229_154437_750.JPG,2023-12-29,web_site,#f3caea,neutral,"Ofrecimiento, Enlace"
+img_20231231_121800_778.JPG,2023-12-31,quote,#251b23,angry,"Sticker, Reposteo"
+img_20230419_123903_072.JPG,2023-04-19,flower,#9e9da6,happy,Otro
+img_20230422_145159_422.JPG,2023-04-22,manequin,#9093a8,happy,"Selfie, Sticker"
+img_20230427_201752_736.JPG,2023-04-27,promo,#bbabab,neutral,Ofrecimiento
+img_20230428_113222_404.JPG,2023-04-28,web_site,#8e868d,sad,Otro
+img_20230420_133836_783.JPG,2023-04-20,person,#979aa4,happy,"Selfie, Sticker"
+IMG_20230428_113740_420.JPG,2023-04-28,book,#95563b,sad,"Sticker, Otro"
+img_20230420_134606_000.JPG,2023-04-20,person,#a3899c,happy,"Sticker, Selfie"
+img_20230426_183523_816.JPG,2023-04-26,quote,#f8f7f9,neutral,"Sticker, Reposteo"
+img_20230427_201420_420.JPG,2023-04-27,web_site,#cfced7,happy,"Reposteo, Ofrecimiento"
+IMG_20230428_113551_962.JPG,2023-04-28,book,#90563c,neutral,Otro
+IMG_20230430_202116_449.JPG,2023-04-30,theater,#5d708b,neutral,Otro
+IMG_20230429_155825_169.JPG,2023-04-29,gown,#bdbeca,happy,Selfie
+IMG_20230430_202116_384.JPG,2023-04-30,people,#81878f,happy,"Selfie, Con otras personas"
+IMG_20230430_202116_761.JPG,2023-04-30,gown,#97a1b2,neutral,Selfie
+IMG_20230430_202129_014.JPG,2023-04-30,people,#5f6a8a,happy,"Con otras personas, Cuerpo Completo"
+IMG_20230430_202129_140.JPG,2023-04-30,dream_catcher,#728ca6,happy,"Cuerpo Completo, Sticker"
+IMG_20230430_202130_572.JPG,2023-04-30,people,#7e9195,happy,Con otras personas
+IMG_20240502_180219_340.jpg,2024-05-02,background_color,#cf54a6,happy,Sticker
+IMG_20240101_120057_494.jpg,2024-01-01,journal,#b4aeb7,sad,"Sticker, Otro"
+IMG_20240103_091845_420.jpg,2024-01-03,person,#e1886a,surprise,"Otro, Cuerpo Completo"
+IMG_20240103_091845_755.jpg,2024-01-03,person,#76315c,neutral,"Cuerpo Completo, Ofrecimiento"
+IMG_20240104_151311_107.jpg,2024-01-04,quote,#b07b41,happy,Otro
+IMG_20240105_140833_389.jpg,2024-01-05,person,#4c3228,sad,"Cuerpo Completo, Sticker"
+IMG_20240106_214222_344.jpg,2024-01-06,bread,#767b9b,neutral,"Sticker, Comida y Bebida"
+IMG_20240111_180951_112.jpg,2024-01-11,oracle_deck,#514454,neutral,"Sticker, Otro"
+IMG_20240129_143555_250.jpg,2024-01-29,web_site,#f4e5eb,neutral,"Otro, Sticker"
+IMG_20240130_190930_660.jpg,2024-01-30,quote,#f6b7c0,happy,"Sticker, Reposteo"
+IMG_20240202_105325_912.jpg,2024-02-02,tamal,#8b90ad,neutral,"Sticker, Comida y Bebida"
+IMG_20240207_110906_769.jpg,2024-02-07,person,#a37a8a,happy,"Sticker, Selfie"
+IMG_20240210_163012_710.jpg,2024-02-10,moon,#411e27,neutral,"Enlace, Ofrecimiento"
+IMG_20240210_163013_969.jpg,2024-02-10,moon,#573b43,happy,"Selfie, Sticker"
+IMG_20240212_121257_181.jpg,2024-02-12,book,#703d6c,surprise,"Sticker, Otro"
+IMG_20240212_121300_506.jpg,2024-02-12,quote,#846475,happy,"Sticker, Selfie"
+IMG_20240212_121301_845.jpg,2024-02-12,background_color,#793056,happy,Sticker
+IMG_20240213_183250_806.jpg,2024-02-13,person,#ac979e,happy,"Sticker, Selfie, Ofrecimiento"
+IMG_20240216_152701_550.jpg,2024-02-16,people,#b69ba2,happy,"Reposteo, Con otras personas"
+IMG_20240219_111146_466.jpg,2024-02-19,coffee,#737888,neutral,Comida y Bebida
+IMG_20240219_125056_353.jpg,2024-02-19,stole,#7f5a70,happy,"Selfie, Otro"
+IMG_20240219_125058_731.jpg,2024-02-19,book,#8d4e73,happy,Otro
+IMG_20240219_125100_027.jpg,2024-02-19,background_color,#793056,happy,Sticker
+IMG_20240220_145703_283.jpg,2024-02-20,person,#7d655b,happy,"Sticker, Selfie"
+IMG_20240220_145706_258.jpg,2024-02-20,promo,#5d203e,neutral,"Selfie, Ofrecimiento, Enlace"
+IMG_20240220_145706_307.jpg,2024-02-20,background_Color,#974e73,happy,Sticker
+IMG_20240221_193428_114.jpg,2024-02-21,person,#907774,happy,"Sticker, Selfie"
+IMG_20240221_193431_128.jpg,2024-02-21,background_color,#853860,sad,Sticker
+IMG_20240223_075815_658.jpg,2024-02-23,gown,#9d9795,happy,Otro
+IMG_20240223_075816_795.jpg,2024-02-23,person,#77505e,happy,Selfie
+IMG_20240223_075817_564.jpg,2024-02-23,abaya,#9da0a2,sad,Otro
+IMG_20240223_075818_734.jpg,2024-02-23,feather_boa,#323c6b,happy,Otro
+IMG_20240223_075821_075.jpg,2024-02-23,background_color,#742850,happy,Sticker
+IMG_20240227_192215_674.jpg,2024-02-27,promo,#aa8ce0,happy,"Reposteo, Ofrecimiento"
+IMG_20240227_192232_482.jpg,2024-02-27,promo,#6f1c4e,neutral,"Reposteo, Ofrecimiento"
+IMG_20240227_192245_237.jpg,2024-02-27,promo,#6f1a4d,neutral,"Reposteo, Ofrecimiento"
+IMG_20240304_101907_511.jpg,2024-03-04,person,#704d61,happy,"Selfie, Sticker"
+IMG_20240304_101907_513.jpg,2024-03-04,book,#704c79,surprise,"Sticker, Otro"
+IMG_20240304_101907_606.jpg,2024-03-04,background_color,#7a2650,happy,Sticker
+IMG_20240305_193343_615.jpg,2024-03-05,web_site,#a34472,happy,Ofrecimiento
+IMG_20240305_193343_959.jpg,2024-03-05,person,#ac859f,happy,"Ofrecimiento, Sticker, Selfie"
+IMG_20240305_193348_099.jpg,2024-03-05,background_Color,#af5c83,happy,Sticker
+IMG_20240311_175939_070.jpg,2024-03-11,promo,#82384a,nuetral,"Enlace, Cuerpo Completo, Ofrecimiento"
+IMG_20240311_175941_185.jpg,2024-03-11,person,#92697c,happy,"Selfie, Sticker"
+IMG_20240316_184103_346.jpg,2024-03-16,person,#8e6779,happy,"Selfie, Sticker"
+IMG_20240319_082940_712.jpg,2024-03-19,person,#653c57,neutral,"Selfie, Sticker"
+IMG_20240319_082943_526.jpg,2024-03-19,promo,#782f3f,neutral,"Ofrecimiento, Cuerpo Completo"
+IMG_20240319_082946_013.jpg,2024-03-19,person,#804c6b,happy,"Selfie, Sticker"
+IMG_20240319_082946_383.jpg,2024-03-19,person,#856c4b,happy,"Sticker, Ofrecimiento, Cuerpo Completo"
+IMG_20240321_091929_583.jpg,2024-03-21,person,#8d586e,happy,Cuerpo Completo
+IMG_20240321_091929_670.jpg,2024-03-21,journal,#70566b,sad,Cuerpo Completo
+IMG_20240401_114430_919.jpg,2024-04-01,person,#693856,happy,Selfie
+IMG_20240401_114431_278.jpg,2024-04-01,person,#562a47,happy,Selfie
+IMG_20240401_114436_157.jpg,2024-04-01,person,#856a48,happy,"Ofrecimiento, Cuerpo Completo"
+IMG_20240401_182702_590.jpg,2024-04-01,trifle,#707989,happy,Comida y Bebida
+IMG_20240404_173737_841.jpg,2024-04-04,person,#91818b,happy,"Selfie, Sticker"
+IMG_20240405_172839_010.jpg,2024-04-05,people,#605960,happy,"Con otras personas, Reposteo"
+IMG_20240405_172930_524.jpg,2024-04-05,promo,#ded7cb,sad,"Reposteo, Ofrecimiento"
+IMG_20240410_210243_566.jpg,2024-04-10,coffee_shop,#68708e,happy,Selfie
+IMG_20240419_084956_981.jpg,2024-04-19,fruit,#777eac,neutral,Comida y Bebida
+IMG_20240419_135448_157.jpg,2024-04-19,people,#5d79b4,sad,"Con otras personas, Reposteo"
+IMG_20240424_140855_977.jpg,2024-04-24,pizza,#72718b,happy,"Selfie, Comida y Bebida"
+IMG_20240424_154915_528.jpg,2024-04-24,people,#a296ae,happy,"Con otras personas, Reposteo"
+IMG_20240424_155033_295.jpg,2024-04-24,people,#6f697c,happy,Con otras personas
+IMG_20240425_094228_479.jpg,2024-04-25,people,#7e77bc,happy,"Con otras personas, Reposteo"
+IMG_20240425_123732_797.jpg,2024-04-25,bucket,#7d8290,happy,Comida y Bebida
+IMG_20240425_152208_168.jpg,2024-04-25,logo,#cd6378,happy,Cuerpo Completo
+IMG_20240425_152209_075.jpg,2024-04-25,person,#626994,neutral,Selfie
+IMG_20240425_152211_383.jpg,2024-04-25,person,#7f6a7f,happy,Cuerpo Completo
+IMG_20240425_152212_626.jpg,2024-04-25,envelope,#5f82b6,neutral,Otro
+IMG_20240425_183425_441.jpg,2024-04-25,juice,#5e697d,happy,"Comida y Bebida, Selfie"
+IMG_20240501_174852_821.jpg,2024-05-01,promo,#a789b6,surprise,"Selfie, Ofrecimiento, Sticker"
+IMG_20240503_170518_854.jpg,2024-05-03,person,#95858e,happy,"Selfie, Sticker"
+IMG_20240504_161343_341.jpg,2024-05-04,people,#716f87,happy,Con otras personas
+IMG_20240504_161354_243.jpg,2024-05-04,toyshop,#746f83,happy,"Con otras personas, Comida y Bebida"
+IMG_20240504_161356_203.jpg,2024-05-04,theater,#6c6a7e,neutral,Otro
+IMG_20240504_161357_968.jpg,2024-05-04,people,#6e647e,happy,Otro
+IMG_20240504_161359_463.jpg,2024-05-04,people,#696574,happy,Con otras personas
+IMG_20240506_105807_119.jpg,2024-05-06,journal,#c56f74,sad,Otro
+IMG_20240506_105807_560.jpg,2024-05-06,book,#d27c74,happy,Otro
+IMG_20240510_203821_648.jpg,2024-05-10,plate,#717585,happy,"Selfie, Comida y Bebida"
+IMG_20240510_203822_065.jpg,2024-05-10,people,#726370,tender,Con otras personas
+IMG_20240510_203822_689.jpg,2024-05-10,tray,#a9acab,neutral,"Comida y Bebida, Sticker"
+IMG_20240513_122742_155.jpg,2024-05-13,person,#604360,neutral,"Sticker, Selfie"
+IMG_20240513_122744_822.jpg,2024-05-13,person,#714a66,happy,"Sticker, Selfie"
+IMG_20240522_121148_486.jpg,2024-05-22,fur_coat,#8f979f,fear,Cuerpo Completo
+IMG_20240522_121149_820.jpg,2024-05-22,garden,#6f7f76,neutral,Otro
+IMG_20240522_121150_701.jpg,2024-05-22,tree,#615f61,neutral,Cuerpo Completo
+IMG_20240522_121151_924.jpg,2024-05-22,person,#653b5f,neutral,"Selfie, Sticker"
+IMG_20240522_121153_867.jpg,2024-05-22,sculpture,#8a8681,happy,"Cuerpo Completo, Sticker"
+IMG_20240522_121157_356.jpg,2024-05-22,sunglasses,#666f7e,happy,"Selfie, Ofrecimiento"
+IMG_20240522_121200_500.jpg,2024-05-22,promo,#7b516a,happy,"Selfie, Ofrecimiento"
+IMG_20240528_133155_716.jpg,2024-05-28,person,#5ba9dd,happy,"Sticker, Reposteo"
+IMG_20240808_095858_487.jpg,2024-08-08,journal,#5e1ca8,neutral,Otro
+IMG_20240808_100350_212.jpg,2024-08-08,"coffee_,mug",#bf5f82,happy,"Selfie, Comida y Bebida"
+IMG_20240808_210516_193.jpg,2024-08-08,desk,#586372,happy,"Selfie, Comida y Bebida"
+IMG_20240809_145528_681.jpg,2024-08-09,person,#6a697b,happy,Selfie
+IMG_20240809_165928_655.jpg,2024-08-09,person,#7e798f,happy,Selfie
+IMG_20240810_103612_969.jpg,2024-08-10,logo,#968fa2,happy,Selfie
+IMG_20240810_124511_027.jpg,2024-08-10,theater,#697479,happy,Selfie
+IMG_20240810_142353_431.jpg,2024-08-10,snack,#687677,happy,"Selfie, Comida y Bebida"
+IMG_20240811_102832_102.jpg,2024-08-11,logo,#97a7af,happy,"Selfie, Comida y Bebida"
+IMG_20240811_102840_917.jpg,2024-08-11,logo,#a2a2ad,happy},Selfie
+IMG_20240811_145554_516.jpg,2024-08-11,promo,#8b90a2,happy,Cuerpo Completo
+IMG_20240819_092100_941.jpg,2024-08-19,table,#4d5868,happy,"Selfie, Comida y Bebida"
+IMG_20240821_155819_331.jpg,2024-08-21,web_site,#f4f4f4,happy,Reposteo
+IMG_20240824_184445_872.jpg,2024-08-24,flowers,#777b89,happy,Selfie
+IMG_20240826_133208_186.jpg,2024-08-26,coffee,#7b7283,neutral,"Selfie, Comida y Bebida"
+IMG_20240826_133346_199.jpg,2024-08-26,hot_pot,#a1acb4,happy,"Comida y Bebida, Sticker"
+IMG_20240827_170051_835.jpg,2024-08-27,people,#848390,happy,"Selfie, Sticker"
+IMG_20240828_115454_915.jpg,2024-08-28,skeleton,#9dc6c0,happy,"Sticker, Reposteo"
+IMG_20240829_153625_328.jpg,2024-08-29,person,#777183,happy,Selfie
+IMG_20240829_153816_351.jpg,2024-08-29,oracle_Deck,#a4a0a9,neutral,Otro
+IMG_20240830_113134_601.jpg,2024-08-30,coffee,#7f7e8a,happy,"Selfie, Comida y Bebida"
+IMG_20240831_120114_836.jpg,2024-08-31,sunglasses,#6f7c7d,happy,Selfie
+IMG_20240901_113918_911.jpg,2024-09-01,banjo,#687779,neutral,Otro
+IMG_20240901_113919_888.jpg,2024-09-01,food,#586172,happy,"Selfie, Comida y Bebida"
+IMG_20240901_113921_892.jpg,2024-09-01,coffee,#605d6c,happy,"Selfie, Comida y Bebida"
+IMG_20240901_113922_180.jpg,2024-09-01,wok,#68739a,neutral,Comida y Bebida
+IMG_20240901_142009_712.jpg,2024-09-01,horse,#878b93,neutral,Otro
+IMG_20240902_094358_122.jpg,2024-09-02,restaurant,#7e9596,neutral,Cuerpo Completo
+IMG_20240902_094755_286.jpg,2024-09-02,drawing,#83698d,sad,Otro

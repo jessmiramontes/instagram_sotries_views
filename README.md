@@ -7,6 +7,7 @@ Next step: export this information to a csv and then using the Identificador de 
 I created the final dataset. Next Step: Add manually the "Category".
 ** Update March 2:** I realized that I need to validate the information on the Image dataset and add the categories so I created a streamlit app to helm me do it.
 **Update March 19:** I have the final dataset to start the EDA and the training. 
+**Update March 27:** I realized that all the information given by meta analytics is not important to predict the reach of the stories, is a consequence... they were helpful to me to correlate the reach information with the image analysis that I did. 
 
 Files:
 1) Instagram_stories_image_dataset.ipynb (Image Analysis and DatasetCreation)
